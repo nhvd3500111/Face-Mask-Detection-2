@@ -5,7 +5,7 @@ Creation of a Model that recieves a picture and performs multi class classificat
 
 ***IMPORTANT***
 -----------------------
-Please eaxecute the three notebooks as mentioned in their name one after another. Save them in the same directory as the dataset's folder. 
+Please execute the three notebooks as mentioned in their name one after another. Save them in the same directory as the dataset's folder. 
 More specifically, if each notebook is saved in the path ......./directory/notebook, then the above mentioned directory of the dataset (kaggle) must be saved saved in the path ....../directory/kaggle.... of your local pc
 -----------------------
 
