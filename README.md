@@ -5,9 +5,12 @@ Creation of a Model that recieves a picture and performs multi class classificat
 
 ***IMPORTANT***
 -----------------------
-Please execute the three notebooks as mentioned in their name one after another. Save them in the same directory as the dataset's folder. 
+Please execute the three notebooks as mentioned in their name one after another if you want to create your own models. If you want to use my models copy the folder models_new in the same directory where 2_of_3 (Demonstration) and 3_of 3 (Implementation) will be saved.
+
+If you want to exectue the first Notebook you have to use kaggle's dataset. So save 1_of_3 (Development Model) in the same directory as the dataset's folder. 
 More specifically, if each notebook is saved in the path ......./directory/notebook, then the above mentioned directory of the dataset (kaggle) must be saved saved in the path ....../directory/kaggle.... of your local pc
 -----------------------
+
 
 1st Notebook: Preprocessing of the Data, Data Augmentation, Development of three different types of DNNs to exploit them later in order to avoid GAN attacks
 
