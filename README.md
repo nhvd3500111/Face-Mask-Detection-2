@@ -16,4 +16,6 @@ More specifically, if each notebook is saved in the path ......./directory/noteb
 
 (CNN with random activation functions, CNN with Lecun activation function and a MobilnetV2 on top of which we add extra layers)
 
-2nd Notebook:
+2nd Notebook: Proposing a robust technique for avoiding GAN attacks and demonstrating it with some examples included in the photos_example folder
+
+3rd Notebook: Final Implementation of the Proposal of our Model
