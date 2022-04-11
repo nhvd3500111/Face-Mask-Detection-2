@@ -1,7 +1,7 @@
 # Face-Mask-Detection-2
 Face Mask Detection using OpenCV and Tensorflow/Keras. Dataset from https://www.kaggle.com/datasets/andrewmvd/face-mask-detection
 
-Creation of a Model that recieves a picture and performs multi class classification (idientifies whether a person wears a mask properly, wears a mask the wrong way or doe snot wear a mask at all)
+Creation of a Model that recieves a picture and performs multi class classification (idientifies whether a person wears a mask properly, wears a mask the wrong way or does not wear a mask at all)
 
 ***IMPORTANT***
 -----------------------
